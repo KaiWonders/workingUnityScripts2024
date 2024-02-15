@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+!*/
+# Except for the contents of Assets/Assets/Script/
+!Assets/
+!Assets/My Assets/
+!Assets/My Assets/Scripts/
+!Assets/My Assets/Scripts/*
+!Assets/My Assets/Scripts/**
+
+!.gitignore
+!.README.md
